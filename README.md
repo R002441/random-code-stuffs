@@ -1,2 +1,2 @@
 # random-code-stuffs
-Contains a random assortment of code for use with Codespaces
+Contains a random assortment of code from various lessons
